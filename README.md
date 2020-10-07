@@ -1,2 +1,3 @@
-# CSE-476
-Mobile Communication Networks
+# Gebze Technical University
+# Computer Engineering
+# Mobile Communication Networks
