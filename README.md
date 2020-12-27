@@ -7,6 +7,8 @@ Python Projects
 Working Operating System:
 
     Linux Ubuntu 20.04.1 LTS
-    PyCharm IDE
+    Terminal
     
-Midterm Project Progress Report -> Progress Report of Midterm Project.
+Midterm Project Progress Report -> Progress Report of Midterm Project with Project Codes.
+
+Midterm Project Final Report    -> Final Report of Midterm Project with Project Codes.
